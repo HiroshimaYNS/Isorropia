@@ -1,0 +1,17 @@
+footer{
+    width: 100%;
+    margin-top: 50px;
+}
+footer .sociales{
+    background: rgb(37, 36, 36);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 15px 10px;
+}
+footer .sociales a{
+    font-size: 35px;
+    color: rgb(255, 255, 255);
+}
+
